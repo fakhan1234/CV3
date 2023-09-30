@@ -1,0 +1,35 @@
+
+.profilepic{
+            border-radius: 15%;
+            border: 2px dotted;
+            left: 5px;
+}
+
+
+    .vertical {
+      border-left: 6px solid rgb(84, 84, 90);
+      height: 680px;
+      position:absolute;
+      left: 38%;
+    }
+
+h2{
+    font-size: 5ch;
+    
+}
+
+
+
+h1{
+    color: rgb(45, 43, 43);
+    border: 3px solid white;
+    background-color: cadetblue; 
+}
+
+
+
+
+
+body{
+    background-color:#DEE1E6;
+}
